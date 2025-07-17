@@ -1,60 +1,76 @@
-<h1 align="center">Hi 👋, I'm Kumar Anubhav</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# 👋 Hi, I'm Kumar Anubhav
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaranubhav1654&label=Profile%20views&color=0e75b6&style=flat" alt="Kumar_Anubhav" /> </p>
+🚀 Passionate Full Stack Developer | 💼 Software Engineer at Hy-Vee Inc.  
+📍 Based in Bengaluru, India
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumaranubhav1654" alt="kumaranubhav1654" /></a> </p>
+---
 
-- 🔭 I’m currently working at **Hy-vee Inc.** as a Software Engineer - I
+## 🔧 Tech Stack
 
-- 🌱 I’m currently learning **Advanced React Native and Scalable Systems**
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
-- 🗣️ Ask me about **React, React Native, Node.js, Express, GCP, Kafka, Firebase, SQL, MongoDB**
+---
 
-- 📧 How to reach me **kumar.anubhav1654@gmail.com** or **+91-7765063799**
+## 💼 Work Experience
 
-### 🌍 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/kumar-anubhav" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/kumar-anubhav" height="30" width="40" />
-  </a>
-  <a href="https://github.com/kumaranubhav1654" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="40" />
-  </a>
-</p>
+### 🚀 Software Engineer – Hy-Vee Inc.  
+_Bengaluru | Sep 2023 – Present_
 
-### 📈 Coding Profiles
-<ul>
-  <li><a href="https://leetcode.com/">Leetcode</a></li>
-  <li><a href="https://www.hackerrank.com/">HackerRank</a></li>
-  <li><a href="https://auth.geeksforgeeks.org/">GeeksForGeeks</a></li>
-</ul>
+- Developed **authentication service** for 10M+ users using JS, SQL, Redis, and Kafka.
+- Built optimistic UI updates for **favoriting products** with rollback for failures.
+- Streamlined **tracking via Firebase, GTM, and Airship** for accurate events and privacy-safe data.
+- Migrated content from **Umbraco to Sanity**, achieving 99% data accuracy.
 
-### 📑 Projects
-- **Qkart (E-Commerce App)**: React, Bootstrap, REST APIs, Netlify deployed.
-- **Progress Tracker App**: React Native, Redux, Firebase, cross-platform.
+### 🛠️ Programmer Associate – Cognizant  
+_Jul 2022 – Aug 2023_
 
-### 📄 Blog Posts (Coming Soon)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- Created scalable REST APIs supporting **multi-client platforms** in Node.js.
+- Implemented **debounce optimization**, reducing unnecessary API calls by 70%.
+- Refactored legacy codebase, **boosting test coverage from 62% to 97%**.
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/cloudgoogle/cloudgoogle-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaranubhav1654&show_icons=true&locale=en&layout=compact" alt="kumaranubhav1654" /></p>
+## 📂 Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaranubhav1654&show_icons=true&locale=en" alt="kumaranubhav1654" /></p>
+### 🛒 QKart – E-Commerce Web App
+- Built core features like login, cart, and checkout using **React + REST APIs**.
+- Added **responsive UI** and deployed on **Netlify**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaranubhav1654&" alt="kumaranubhav1654" /></p>
+### 📱 Progress Tracker App – React Native
+- Cross-platform app using **Redux, Firebase**, and **TypeScript**.
+- Supports project progress tracking on Android and iOS.
+
+---
+
+## 📈 Coding Profiles
+
+- 🟡 [LeetCode](https://leetcode.com/digvijaygupta2143)
+- 🟢 [HackerRank](https://www.hackerrank.com/digvijaygupta2143)
+- 🟣 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/digvijaygupta2143)
+- 🟤 [Codeforces](https://codeforces.com/profile/digvijaygupta2143)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Won **Best Employee Award** (Feb 2024 Hackathon – Hy-Vee).
+- 🌍 Volunteered in multiple Hy-Vee **social impact** events.
+
+---
+
+## 📫 Get in Touch
+
+📧 **Email**: kumar.anubhav1654@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/kumar-anubhav](https://linkedin.com/in/kumar-anubhav)  
+🐙 **GitHub**: [github.com/kumaranubhav1654](https://github.com/kumaranubhav1654)
